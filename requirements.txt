@@ -1,0 +1,15 @@
+urllib3
+colorama
+requests
+paramiko
+sockets
+pyfiglet
+queuelib
+pyftpdlib
+secure-smtplib
+webtech
+hashlib
+tqdm
+requests-html
+bs4
+regex
